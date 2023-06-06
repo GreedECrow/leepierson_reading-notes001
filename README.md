@@ -6,7 +6,7 @@ Hello every one. I'm here to learn a new skill in something I enjoy so I can get
 
 ## Growth Mindset
 A growth midset is whatever you need it to be to keep you moving forward no matter how many set backs.
-#### Things to remember
+### Things to remember
 - If you learn from a set back, that is a step forward.
 - Failure is a better teacher than success
 - It's possible to make all the right moves and still lose. That's not failure, that's life.
@@ -17,7 +17,7 @@ A growth midset is whatever you need it to be to keep you moving forward no matt
 # About me
 ![It is meant to be a picture](https://scontent-man2-1.xx.fbcdn.net/v/t31.18172-8/14524506_1843005415932298_3401855838109624203_o.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_ohc=KMB3kiRu3HkAX8JWGwj&_nc_oc=AQkCiz_zlO45HvUEyYk5Kelz9EnS1zGN10vVPk1OXwtyBu2Ab876sAQ5_n6Kyndfq0A&_nc_ht=scontent-man2-1.xx&oh=00_AfDrE7NMasYFpZ7Bf00VlD8NlF8l0KEckDl41GMjBJyuXA&oe=64A685CB)
 
-#### Standard boring bits
+### Standard boring bits
 - **Name** Lee Pierson
 - **Lives in** Merseyside
 - **Likes**
