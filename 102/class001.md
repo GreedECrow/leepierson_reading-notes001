@@ -11,7 +11,7 @@ Why do we use Markdown?
     It's supported by many applications, offline or online.
 
 What symbol will create a heading in Markdown?
-'#'
+`#`.
 
 
 How many do you need to create the largest heading?
@@ -19,19 +19,19 @@ Just one.
 
 
 How many do you need to create the smallest heading?
-Six
+Six.
 
 
 When making text bold or italicized for emphasis, it is best practice to use which symbol?
-**Bold** = `** **` or `__ __`
-*Italic* = `* *` or `_ _`
+**Bold** = `** **` or `__ __`.
+*Italic* = `* *` or `_ _`.
 
 
 How do you create a link with Markdown?
-`[]` for the link. `()` for the web address the link leads to. `(link address)[this is a link]`
+`[]` for the link text. `()` for the web address the link leads to. `[This is a link](www.alink.com)`.
 
 
 What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
-`-` `+` `*`
+`-` `+` `*`.
 
 [HOME](README.md)

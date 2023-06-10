@@ -15,23 +15,23 @@ A growth midset is whatever you need it to be to keep you moving forward no matt
 
 ![It is meant to be a picture](https://scontent-man2-1.xx.fbcdn.net/v/t1.18169-9/1620613_1438333563066154_1248729913_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=19026a&_nc_ohc=YPWUgXEDoVoAX-s__Js&_nc_ht=scontent-man2-1.xx&oh=00_AfAINDWKmCi2A_Flss6jZbU0hOX0-Wpe3De-3KUiSZ58TQ&oe=64A6A593)
 
-| 102                   | 201                   | 301 |
-| --------------------- | --------------------- | --- |
-| [001](102/note001.md) | [001](201/note001.md) |     |
-| [002](102/note002.md) | [002](201/note002.md) |     |
-| [003](102/note003.md) | [003](201/note003.md) |     |
-| [004](102/note004.md) | [004](201/note004.md) |     |
-| [005](102/note005.md) | [005](201/note005.md) |     |
-| [006](102/note006.md) | [006](201/note006.md) |     |
-| [007](102/note007.md) | [007](201/note007.md) |     |
-| [008](102/note008.md) | [008](201/note008.md) |     |
-|                       | [009](201/note009.md) |     |
-|                       | [010](201/note010.md) |     |
-|                       | [011](201/note011.md) |     |
-|                       | [012](201/note012.md) |     |
-|                       | [013](201/note013.md) |     |
-|                       | [014](201/note014.md) |     |
-|                       | [015](201/note015.md) |     |
+| 102                   | 201                               | 301 |
+| --------------------- | ---------------------             | --- |
+| [Class001](102/class001.md) | [Class001](201/class001.md) |     |
+| [Class002](102/class002.md) | [Class002](201/class002.md) |     |
+| [Class003](102/class003.md) | [Class003](201/class003.md) |     |
+| [Class004](102/class004.md) | [Class004](201/class004.md) |     |
+| [Class005](102/class005.md) | [Class005](201/class005.md) |     |
+| [Class006](102/class006.md) | [Class006](201/class006.md) |     |
+| [Class007](102/class007.md) | [Class007](201/class007.md) |     |
+| [Class008](102/class008.md) | [Class008](201/class008.md) |     |
+|                             | [Class009](201/class009.md) |     |
+|                             | [Class010](201/class010.md) |     |
+|                             | [Class011](201/class011.md) |     |
+|                             | [Class012](201/class012.md) |     |
+|                             | [Class013](201/class013.md) |     |
+|                             | [Class014](201/class014.md) |     |
+|                             | [Class015](201/class015.md) |     |
 
 ### [About me](About_Me.md)
 
