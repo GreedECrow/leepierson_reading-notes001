@@ -33,4 +33,4 @@ Six.
 ### 6. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?    
 `-` `+` `*`.  
 
-## [Home](README.md)
+## [Home](/README.md)
