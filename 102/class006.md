@@ -11,3 +11,5 @@ It is used to assign a new value to a variable.
 
 ### 4. What is information received from the user called?
 Input.
+
+## [Home](README.md)

@@ -21,6 +21,8 @@
 - `cd ..` = Go back/up by one directory.
 - `ls projects/new-project` = List all the files in the 'new-project' directory.
 
+## [Home](README.md)
+
 
 
 
