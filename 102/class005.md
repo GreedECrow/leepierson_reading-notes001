@@ -13,4 +13,4 @@ p {
     color: red;
 }
 
-## [Home](/README.md)
+## [Home](/readme.md)
