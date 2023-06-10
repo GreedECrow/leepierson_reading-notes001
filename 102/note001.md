@@ -1,2 +1,0 @@
-# HELLO
-[HOME](README.md)

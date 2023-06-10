@@ -2,7 +2,7 @@
 ![It is meant to be a picture](https://scontent-man2-1.xx.fbcdn.net/v/t1.6435-9/39075714_2212556528977183_2082924594414485504_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Buhk6diI3igAX-F_eXd&_nc_ht=scontent-man2-1.xx&oh=00_AfAyQig2lnwC4sWlOo84j6k4ur8yelYPxCJ7l1LRhypZGg&oe=64A67421)
 
 # Leaning Markdown.
-Hello every one. I'm here to learn a new skill in something I enjoy so I can get a job I can enjoy. I look forward to learning with you all.
+Hello everyone. I'm here to learn a new skill in something I enjoy so I can get a job I can enjoy. I look forward to learning with you all.
 
 ## Growth Mindset
 A growth midset is whatever you need it to be to keep you moving forward no matter how many set backs.
