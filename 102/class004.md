@@ -5,7 +5,7 @@ Hyper text Markup Language is code used to structure and populate a web site tha
 
 ### 2. What are the 3 main parts of an HTML element?
 1. Opening tag `<>`.
-2. Content.
+2. Content. `"Hello World!"`
 3. Closing tag `</>`.
 
 ### 3. What is it called when you give an element extra information?

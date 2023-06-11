@@ -1,4 +1,3 @@
-<sup>Lab 01b - Learning Markdown</sub>
 ![It is meant to be a picture](https://scontent-man2-1.xx.fbcdn.net/v/t1.6435-9/39075714_2212556528977183_2082924594414485504_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Buhk6diI3igAX-F_eXd&_nc_ht=scontent-man2-1.xx&oh=00_AfAyQig2lnwC4sWlOo84j6k4ur8yelYPxCJ7l1LRhypZGg&oe=64A67421)
 
 # Leaning Markdown.
@@ -15,23 +14,23 @@ A growth midset is whatever you need it to be to keep you moving forward no matt
 
 ![It is meant to be a picture](https://scontent-man2-1.xx.fbcdn.net/v/t1.18169-9/1620613_1438333563066154_1248729913_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=19026a&_nc_ohc=YPWUgXEDoVoAX-s__Js&_nc_ht=scontent-man2-1.xx&oh=00_AfAINDWKmCi2A_Flss6jZbU0hOX0-Wpe3De-3KUiSZ58TQ&oe=64A6A593)
 
-| 102                   | 201                               | 301 |
-| --------------------- | ---------------------             | --- |
-| [Class001](102/class001.md) | [Class001](201/class001.md) |     |
-| [Class002](102/class002.md) | [Class002](201/class002.md) |     |
-| [Class003](102/class003.md) | [Class003](201/class003.md) |     |
-| [Class004](102/class004.md) | [Class004](201/class004.md) |     |
-| [Class005](102/class005.md) | [Class005](201/class005.md) |     |
-| [Class006](102/class006.md) | [Class006](201/class006.md) |     |
-| [Class007](102/class007.md) | [Class007](201/class007.md) |     |
-| [Class008](102/class008.md) | [Class008](201/class008.md) |     |
-|                             | [Class009](201/class009.md) |     |
-|                             | [Class010](201/class010.md) |     |
-|                             | [Class011](201/class011.md) |     |
-|                             | [Class012](201/class012.md) |     |
-|                             | [Class013](201/class013.md) |     |
-|                             | [Class014](201/class014.md) |     |
-|                             | [Class015](201/class015.md) |     |
+| 102                   | 201                                                                                   | 301 |
+| --------------------- | ---------------------                                                                 | --- |
+| [Class001 Learning Markdown](102/class001.md)                 | [Class001 Readings Overview](201/class001.md) |     |
+| [Class002 The Coder's Computer](102/class002.md)              | [Class002](201/class002.md)                   |     |
+| [Class003 Revisions and the Cloud](102/class003.md)           | [Class003](201/class003.md)                   |     |
+| [Class004 Structure Web Pages with HTML](102/class004.md)     | [Class004](201/class004.md)                   |     |
+| [Class005 Design Web Pages with CSS](102/class005.md)         | [Class005](201/class005.md)                   |     |
+| [Class006 Dynamic Web pages with JavaScropt](102/class006.md) | [Class006](201/class006.md)                   |     |
+| [Class007 Programming with JavaScript](102/class007.md)       | [Class007](201/class007.md)                   |     |
+| [Class008 Operators and Loops](102/class008.md)               | [Class008](201/class008.md)                   |     |
+|                                                               | [Class009](201/class009.md)                   |     |
+|                                                               | [Class010](201/class010.md)                   |     |
+|                                                               | [Class011](201/class011.md)                   |     |
+|                                                               | [Class012](201/class012.md)                   |     |
+|                                                               | [Class013](201/class013.md)                   |     |
+|                                                               | [Class014](201/class014.md)                   |     |
+|                                                               | [Class015](201/class015.md)                   |     |
 
 ### [About me](About_Me.md)
 

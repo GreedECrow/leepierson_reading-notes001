@@ -16,4 +16,4 @@
 
 ### [Github Portfolio Page](https://github.com/GreedECrow)
 
-## [Home](README.md)
+## [Home](/readme.md)
