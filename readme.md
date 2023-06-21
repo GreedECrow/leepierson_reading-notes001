@@ -24,7 +24,7 @@ A growth midset is whatever you need it to be to keep you moving forward no matt
 | [Class006 Dynamic Web pages with JavaScropt](102/class006.md) | [Class006 Problem Domain, Objects, and the DOM](201/class006.md)                   |     |
 | [Class007 Programming with JavaScript](102/class007.md)       | [Class007 Object-Oriented Programming, HTML Tables](201/class007.md)                   |     |
 | [Class008 Operators and Loops](102/class008.md)               | [Class008 CSS Layout](201/class008.md)                   |     |
-|                                                               | [Class009](201/class009.md)                   |     |
+|                                                               | [Class009 Forms and JS Events](201/class009.md)                   |     |
 |                                                               | [Class010](201/class010.md)                   |     |
 |                                                               | [Class011](201/class011.md)                   |     |
 |                                                               | [Class012](201/class012.md)                   |     |
