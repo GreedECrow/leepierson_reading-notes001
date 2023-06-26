@@ -27,7 +27,7 @@ A growth midset is whatever you need it to be to keep you moving forward no matt
 |                                                               | [Class009 Forms and JS Events](201/class009.md)                   |     |
 |                                                               | [Class010 Debugging](201/class010.md)                   |     |
 |                                                               | [Class011 Audio, Video, Images](201/class011.md)                   |     |
-|                                                               | [Class012](201/class012.md)                   |     |
+|                                                               | [Class012 Chart.js, Canvas](201/class012.md)                   |     |
 |                                                               | [Class013](201/class013.md)                   |     |
 |                                                               | [Class014](201/class014.md)                   |     |
 |                                                               | [Class015](201/class015.md)                   |     |
