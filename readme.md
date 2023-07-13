@@ -16,7 +16,7 @@ A growth midset is whatever you need it to be to keep you moving forward no matt
 
 | 102                   | 201                                                                                   | 301 |
 | --------------------- | ---------------------                                                                 | --- |
-| [Class001 Learning Markdown](102/class001.md)                 | [Class001 Overview](201/class001.md) |     |
+| [Class001 Learning Markdown](102/class001.md)                 | [Class001 Overview](201/class001.md) |[Dive into React](301/preRead001.md)    |
 | [Class002 The Coder's Computer](102/class002.md)              | [Class002 Basics of HTML, CSS & JS](201/class002.md)                   |     |
 | [Class003 Revisions and the Cloud](102/class003.md)           | [Class003 HTML Lists, Control Flow with JS, and the CSS Box ModelLearn HTML](201/class003.md)                   |     |
 | [Class004 Structure Web Pages with HTML](102/class004.md)     | [Class004 HTML Links, JS Functions, and Intro to CSS Layout](201/class004.md)                   |     |
