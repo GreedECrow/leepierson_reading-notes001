@@ -3,22 +3,24 @@
 ## What Google Learned From Its Quest to Build the Perfect Team
 
 ### 1. To what extent did psychological safety impact your previous work experience?
-### 2. How does this article inform your approach to working with others moving forward?
+Couldn't read it without signing up.
 
+### 2. How does this article inform your approach to working with others moving forward?
+Couldn't read it without signing up.
 
 ## How I explained REST to my brother
 
 ### 1. Who is Roy Fielding?
-
+One of the principal authors of the HTTP specification and the originator of the REST architectural style.
 
 ### 2. Why don’t the techniques that we use in this class work well when we need to be able to talk to all of the machines in the world?
-
+Not everything is capable of seemlessly workign on everything.
 
 ### 3. What is the HTTP protocol that Fielding and his friends created?
-
+Hypertext Transfer Protocol. It is capable of describing the location of something anywhere in the world from anywhere in the world.
 
 ### 4. What does a GET do?
-
+GET uses the HTTP protocol on all the resources that are needed and are obtained until the web page is displayed.
 
 ### 5. What does a POST do?
 
